@@ -9,6 +9,7 @@ function Homepages() {
       <Header/>
       <HomesSectionCard/>
       <WomenDressSection/>
+        <HomesSectionCard name="Men's Shoes"/>
     </div>
   )
 }
